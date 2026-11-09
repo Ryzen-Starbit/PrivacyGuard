@@ -149,7 +149,7 @@ Privacy Decision
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/PrivacyGuard.git
+git clone https://github.com/Ryzen-Starbit/PrivacyGuard.git
 
 cd PrivacyGuard
 ```
